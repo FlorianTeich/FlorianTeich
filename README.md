@@ -1,7 +1,8 @@
 👋 Hi, I’m @FlorianTeich.
-PhD Student @ University of Göttingen, Computational Neuroscience.
+Data Scientist @ itsc in Hannover.
+Former PhD Student @ University of Göttingen, Computational Neuroscience.
 
-👀 I’m interested in Computer Vision, Deep Learning, Machine Learning & Data Science.
+👀 I’m interested in Data Science, Machine Learning, Deep Learning & Computer Vision.
 
 🌱 I’m currently learning R and Rust.
 
